@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Tool outputs / archives
+*.zip
+
+# (Optional) If you ever write outputs to a folder in the repo
+output/
