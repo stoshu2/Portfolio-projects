@@ -1,0 +1,11 @@
+{
+  "disk_free_warn_pct": 15,
+  "disk_free_alert_pct": 10,
+  "cpu_warn_pct": 75,
+  "cpu_alert_pct": 90,
+  "mem_used_warn_pct": 80,
+  "mem_used_alert_pct": 90,
+  "service_allowlist": [
+    "Spooler"
+  ]
+}
