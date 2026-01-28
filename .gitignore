@@ -1,0 +1,24 @@
+# --- Python ---
+**/.venv/
+**/__pycache__/
+**/*.pyc
+
+# --- OS / Editor ---
+**/.DS_Store
+**/Thumbs.db
+**/.vscode/
+
+# --- Reports / Bundles (your tools generate these) ---
+**/output/
+**/*.zip
+**/report.html
+**/report.json
+**/perf_samples.csv
+**/perf_summary.csv
+**/events_*.csv
+**/system_info.json
+**/disk.json
+**/resource.json
+**/services.json
+**/reboot.json
+**/defender.json
