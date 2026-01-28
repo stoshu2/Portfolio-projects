@@ -1,0 +1,8 @@
+{
+  "stale_days": 3,
+  "warning_days": 2,
+  "fail_on_warning_result": false,
+  "allowed_success_values": ["Success"],
+  "allowed_warning_values": ["Warning", "SucceededWithWarnings"],
+  "allowed_fail_values": ["Failed", "Error"]
+}

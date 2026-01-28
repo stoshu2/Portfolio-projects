@@ -1,0 +1,9 @@
+job_name,last_run,last_result,last_success,duration_minutes,notes
+SQL-Full-Backup,2026-01-17T02:10:00,Success,2026-01-17T02:10:00,142,Normal run
+FileServer-Incremental,2026-01-17T01:05:00,Warning,2026-01-16T01:04:00,78,Completed with warnings (retry recommended)
+Accounting-VM,2026-01-16T03:30:00,Failed,2026-01-13T03:22:00,0,Transport error during snapshot
+Engineering-NAS,2026-01-14T23:55:00,Success,2026-01-14T23:55:00,310,Large dataset
+HR-SharedDrive,2026-01-12T22:40:00,Success,2026-01-12T22:40:00,95,Stale example (older than 3 days)
+CEO-Laptop,2026-01-17T00:15:00,Success,2026-01-17T00:15:00,25,Endpoint backup
+Archive-Weekly,2026-01-10T04:00:00,Success,2026-01-10T04:00:00,600,Weekly job
+CRM-DB,2026-01-16T02:00:00,Failed,2026-01-11T02:00:00,0,Job failed repeatedly
