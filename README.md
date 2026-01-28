@@ -10,3 +10,7 @@ Windows troubleshooting tool that collects Event Viewer logs and performance cou
 - Folder: `log-parser/`
 - Tech: PowerShell, Python
 - Highlights: configurable severity levels, perf thresholds, one-command run script
+
+- **backup-verifier/** — Backup job verification tool that flags failed, warning, and stale backups (PowerShell + Python)
+
+- **endpoint-health-checker/** — Endpoint health audit tool that checks disk, CPU, memory, services, reboot state, and Defender status with HTML/JSON reporting
